@@ -1,5 +1,7 @@
 # starter_folder
 
-This repo....
+on_scores_quintiles_EN.csv is the raw data
+references_datasheet.bib is the references list
 
-It is organised as follows...
+Plotting.R is the graph code
+document.pdf is the paper pdf
